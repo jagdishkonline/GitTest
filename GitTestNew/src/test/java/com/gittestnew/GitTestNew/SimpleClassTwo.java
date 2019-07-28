@@ -6,6 +6,7 @@ public class SimpleClassTwo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("My Project Updated");
+		System.out.println("Second Project is Not Updaed");
 
 	}
 
